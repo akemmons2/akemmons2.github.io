@@ -73,7 +73,7 @@ The above steps are necessary to successfully communicate in business, but they 
 
  The style in business communication is not only a good idea, but in the end, it can be cost saving. Employees that see and use proper business communication are more likely to notice if there is an extra comma vs an organization that rarely practices good communication. Properly documented technical documentation creates a positive environment filled with trust and productivity. Whether a predesigned style guide or the basic guidelines are used, style should be incorporated in all technical writing with consistency that is appropriate based on audience and document purpose.  
 
-								References
+References
 
 
 Bernoff, J. (2016, Sep 06). Bad writing is destroying your company's productivity. Retrieved from Harvard Business: https://hbr.org/2016/09/bad-writing-is-destroying-your-companys-productivity
