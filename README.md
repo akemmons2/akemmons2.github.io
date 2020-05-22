@@ -42,12 +42,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
  
 :Business communication is sometimes portrayed as boring or bland. There are many sources discussing style and how to write corporate documents, but why is choosing a style important? Which style guide works best for business communication? Following instructions can be the key to getting a difficult task done and choosing the proper writing style is important. 
 Business Communication Seven basic qualities that characterize good business writing include:
--•	Understanding the audience
--•	Following basic writing guidelines 
--•	Making it easy to read 
--•	It should attract the reader and meet the reader’s expectations
--•	The writing should be clear and concise
--•	It should efficiently and effectively solve the reader’s problems  (Creative Commons license, 2010)
+-Understanding the audience
+Following basic writing guidelines 
+Making it easy to read 
+It should attract the reader and meet the reader’s expectations
+The writing should be clear and concise
+It should efficiently and effectively solve the reader’s problems  (Creative Commons license, 2010)-
 The above steps are necessary to successfully communicate in business, but they are just the beginning. To achieve effective business communication, planning and thought are necessary, but you cannot stop there. Technical documents like other business communication need to be updated and revised. Especially when there are changes to the procedure, software, or other factors that have an impact or every two years. 
 The Basics of Style
 The main goal in considering style is to present your information in a manner appropriate for both the audience and the purpose of the writing." (Wheaton College Writing Center, 2019) Style isn't ala carte, many things should accompany it; 
