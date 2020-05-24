@@ -1,41 +1,19 @@
 ## Welcome!
 
-### Business Analyst
+# Business Analyst
 
    Experienced in performing detailed requirements analysis, documenting processes, leading projects comprised of both technical and non-technical users.
   
-### Master Data Analyst 
+# Master Data Analyst 
 
  Knowledable in SQL, Python, SAS Studio, R, advanced Excel, MS Access certified. Analytical thinker with the ability to grasp complex challenges.
   
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akemmons2/akemmons2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Business Communication
 
@@ -77,8 +55,11 @@ References
 
 
 Bernoff, J. (2016, Sep 06). Bad writing is destroying your company's productivity. Retrieved from Harvard Business: https://hbr.org/2016/09/bad-writing-is-destroying-your-companys-productivity
+
 Creative Commons license. (2010). Style in written communication. In unknown, Business communication for success (p. 4.4). University of Minnesota Libraries Publishing.
+
 Moses, J. (2018). The not-boriing tech writer. Retrieved from The not-boriing tech writer: https://www.thenotboringtechwriter.com/
 Robertson, G. (2018, Apr 6). Comma quirk irks Rogers. Retrieved from The Globe and Mail Inc.: https://www.theglobeandmail.com/report-on-business/comma-quirk-irks-rogers/article1101686/
+
 Wheaton College Writing Center. (2019). Style, diction, tone, and voice. Retrieved from Wheaton College: https://www.wheaton.edu/academics/services/writing-center/writing-resources/style-diction-tone-and-voice/
 
