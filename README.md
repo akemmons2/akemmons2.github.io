@@ -1,10 +1,10 @@
 ## Welcome!
 
-# Business Analyst
+## Business Analyst
 
    Experienced in performing detailed requirements analysis, documenting processes, leading projects comprised of both technical and non-technical users.
   
-# Master Data Analyst 
+## Master Data Analyst 
 
  Knowledable in SQL, Python, SAS Studio, R, advanced Excel, MS Access certified. Analytical thinker with the ability to grasp complex challenges.
   
