@@ -59,6 +59,7 @@ Bernoff, J. (2016, Sep 06). Bad writing is destroying your company's productivit
 Creative Commons license. (2010). Style in written communication. In unknown, Business communication for success (p. 4.4). University of Minnesota Libraries Publishing.
 
 Moses, J. (2018). The not-boriing tech writer. Retrieved from The not-boriing tech writer: https://www.thenotboringtechwriter.com/
+
 Robertson, G. (2018, Apr 6). Comma quirk irks Rogers. Retrieved from The Globe and Mail Inc.: https://www.theglobeandmail.com/report-on-business/comma-quirk-irks-rogers/article1101686/
 
 Wheaton College Writing Center. (2019). Style, diction, tone, and voice. Retrieved from Wheaton College: https://www.wheaton.edu/academics/services/writing-center/writing-resources/style-diction-tone-and-voice/
