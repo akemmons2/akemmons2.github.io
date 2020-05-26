@@ -8,18 +8,14 @@
 
  Knowledable in SQL, Python, SAS Studio, R, advanced Excel, MS Access certified. Analytical thinker with the ability to grasp complex challenges.
   
-
-### Markdown
-
-# Header 1
-## Header 2
-### Header 3
+## Northwind Data Mining and Statistical Analysis
+   Data mining is the process of taking a raw, large set of data and extracting usable data from it (The Economic Times, n.d.). To determine if the data is usable, it is evaluated for anomalies, patterns and correlations which are then used to predict outcomes. The Northwind data set contains sales data, it will be analyzed, and the following questions will be the groundwork for the statistical analysis.  Which product category produces the highest profitability? What countries purchase the most products? 
 
 ## Business Communication
 
 ### Using Style in Business Communication
  
- Business communication is sometimes portrayed as boring or bland. There are many sources discussing style and how to write corporate documents, but why is choosing a style important? Which style guide works best for business communication? Following instructions can be the key to getting a difficult task done and choosing the proper writing style is important. Seven basic qualities that characterize good business writing include:
+   Business communication is sometimes portrayed as boring or bland. There are many sources discussing style and how to write corporate documents, but why is choosing a style important? Which style guide works best for business communication? Following instructions can be the key to getting a difficult task done and choosing the proper writing style is important. Seven basic qualities that characterize good business writing include:
 
 - Understanding the audience
 - Following basic writing guidelines 
@@ -32,7 +28,7 @@ The above steps are necessary to successfully communicate in business, but they 
 
 ### The Basics of Style
 
- The main goal in considering style is to present your information in a manner appropriate for both the audience and the purpose of the writing." (Wheaton College Writing Center, 2019) Style isn't ala carte, many things should accompany it; 
+   The main goal in considering style is to present your information in a manner appropriate for both the audience and the purpose of the writing." (Wheaton College Writing Center, 2019) Style isn't ala carte, many things should accompany it; 
 - Active voice
 - Tone - appropriate to the document
 - Concise language – reader-focused that is sensitive to the reader’s culture and language
@@ -41,15 +37,15 @@ The above steps are necessary to successfully communicate in business, but they 
 
 ### Why Style
 
- Why is style important in business communication? It can become costly if ignored, ask Rogers Communications, Inc. Not only is style important while writing, but reading it correctly is extremely important. “The validity of the contract and the millions of dollars at stake all came down to one point - the second comma in the sentence” (Robertson, 2018). When reviewing a contract, Rogers Communications, Inc. and their lawyers missed a comma, which resulted in not being able to cancel their contract before five years, this resulted in an additional 2.13 million dollars being spent. Style is important and it can reflect on the organization itself, “81% of people surveyed by Harvard Business review agree that poorly written material wastes a lot of their time”. (Bernoff, 2016) When processes are not documented properly and business documentation is unorganized, filled with jargon, or too lengthy. It slows down productivity and tends to leave a negative impact on the organization, employees, and even customers. On the other hand, clarity instills trust, alignment, and boosts productivity. 
+   Why is style important in business communication? It can become costly if ignored, ask Rogers Communications, Inc. Not only is style important while writing, but reading it correctly is extremely important. “The validity of the contract and the millions of dollars at stake all came down to one point - the second comma in the sentence” (Robertson, 2018). When reviewing a contract, Rogers Communications, Inc. and their lawyers missed a comma, which resulted in not being able to cancel their contract before five years, this resulted in an additional 2.13 million dollars being spent. Style is important and it can reflect on the organization itself, “81% of people surveyed by Harvard Business review agree that poorly written material wastes a lot of their time”. (Bernoff, 2016) When processes are not documented properly and business documentation is unorganized, filled with jargon, or too lengthy. It slows down productivity and tends to leave a negative impact on the organization, employees, and even customers. On the other hand, clarity instills trust, alignment, and boosts productivity. 
 
 ### Over and Undercompensating
 
- When style is not added to technical documentation, it causes the document to feel cold and appear impersonal. Some prefer contrasting colors to “liven” up a document, which is seen as unprofessional to others. It is possible to have too much or too little of a good thing. Good content with bad style is the worst, but with a positive attitude and ingenuity to add, boring writing can become great.  “We’ve all read (and perhaps written) a boring document: the robot-like language, the walls of text.” (Moses, 2018) Jacob Moses a technical writer has created a podcast called the not boring technical writer; the podcast provides tools to help enhance writing skills. So, although there is boring technical documentation out there, it does not have to be the norm. Great writing can result in keeping the audience captivated long enough to convey the message and hopefully inspire them.	
+   When style is not added to technical documentation, it causes the document to feel cold and appear impersonal. Some prefer contrasting colors to “liven” up a document, which is seen as unprofessional to others. It is possible to have too much or too little of a good thing. Good content with bad style is the worst, but with a positive attitude and ingenuity to add, boring writing can become great.  “We’ve all read (and perhaps written) a boring document: the robot-like language, the walls of text.” (Moses, 2018) Jacob Moses a technical writer has created a podcast called the not boring technical writer; the podcast provides tools to help enhance writing skills. So, although there is boring technical documentation out there, it does not have to be the norm. Great writing can result in keeping the audience captivated long enough to convey the message and hopefully inspire them.	
 
 ### Conclusion
 
- The style in business communication is not only a good idea, but in the end, it can be cost saving. Employees that see and use proper business communication are more likely to notice if there is an extra comma vs an organization that rarely practices good communication. Properly documented technical documentation creates a positive environment filled with trust and productivity. Whether a predesigned style guide or the basic guidelines are used, style should be incorporated in all technical writing with consistency that is appropriate based on audience and document purpose.  
+   The style in business communication is not only a good idea, but in the end, it can be cost saving. Employees that see and use proper business communication are more likely to notice if there is an extra comma vs an organization that rarely practices good communication. Properly documented technical documentation creates a positive environment filled with trust and productivity. Whether a predesigned style guide or the basic guidelines are used, style should be incorporated in all technical writing with consistency that is appropriate based on audience and document purpose.  
 
 References
 
