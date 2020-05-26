@@ -10,8 +10,21 @@
   
 ## Northwind Data Mining and Statistical Analysis
    Data mining is the process of taking a raw, large set of data and extracting usable data from it (The Economic Times, n.d.). To determine if the data is usable, it is evaluated for anomalies, patterns and correlations which are then used to predict outcomes. The Northwind data set contains sales data, it will be analyzed, and the following questions will be the groundwork for the statistical analysis.  Which product category produces the highest profitability? What countries purchase the most products? 
+
+![Schemas](https://user-images.githubusercontent.com/54143493/82932115-8b80e580-9f4d-11ea-98b8-024947435fd2.png)
+
+![fact and dimension table](https://user-images.githubusercontent.com/54143493/82932212-ace1d180-9f4d-11ea-910d-2f383a0234c6.png)
   
   Part of the mining process is determining if the data you are using is suitable. Is the data structured? Structured data has columns and rows such as in Excel, CSV or a text file. “The less ETL (extraction, transformation and loading) an organization has to do before analysis, the faster it can start generating insights” (IDG Communications, Inc., 2020). The Northwind data set is structured, allowing us to move to the next step. 
+
+References
+IDG Communications, Inc. (2020). Creating data ecosystems and the requirements for a successful data exchange. Retrieved 05 08, 2020, from CIO: https://www.cio.com/article/3530335/creating-data-ecosystems-and-the-requirements-for-a-successful-data-exchange.html
+
+SAS Institute Inc. (2018). localhost:10080. Retrieved from SAS Studio: http://localhost:10080/SASStudio/38/main?locale=en_US&zone=GMT-05%253A00&http%3A%2F%2Flocalhost%3A10080%2FSASStudio%2F38%2F=
+
+The Economic Times. (n.d.). Definition of data mining. Retrieved 05 08, 2020, from The Economic Times: https://economictimes.indiatimes.com/definition/data-mining
+
+
 
 ## Business Communication
 
