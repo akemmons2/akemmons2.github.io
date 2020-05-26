@@ -6,7 +6,7 @@
   
 ## Master Data Analyst 
 
- Knowledable in SQL, Python, SAS Studio, R, advanced Excel, MS Access certified. Analytical thinker with the ability to grasp complex challenges.
+ Knowledgable in SQL, Python, SAS Studio, R, advanced Excel, MS Access certified. Analytical thinker with the ability to grasp complex challenges.
   
 ## Northwind Data Mining and Statistical Analysis
    Data mining is the process of taking a raw, large set of data and extracting usable data from it (The Economic Times, n.d.). To determine if the data is usable, it is evaluated for anomalies, patterns and correlations which are then used to predict outcomes. The Northwind data set contains sales data, it will be analyzed, and the following questions will be the groundwork for the statistical analysis.  Which product category produces the highest profitability? What countries purchase the most products? 
