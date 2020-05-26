@@ -11,7 +11,7 @@
 ## Northwind Data Mining and Statistical Analysis
    Data mining is the process of taking a raw, large set of data and extracting usable data from it (The Economic Times, n.d.). To determine if the data is usable, it is evaluated for anomalies, patterns and correlations which are then used to predict outcomes. The Northwind data set contains sales data, it will be analyzed, and the following questions will be the groundwork for the statistical analysis.  Which product category produces the highest profitability? What countries purchase the most products? 
 
-The Northwind Database was created and populated in PostgreSQL. Below are the screenshots of the database schemas and fact and dimension tables. The scripts for this project can be found here: [Northwind_DataMining_StatisticalAnalysis](https://github.com/AKEMMONS2/Northwind_DataMining_StatisticalAnalysis.git){:target="_blank" rel="noopener"}.
+The Northwind Database was created and populated in PostgreSQL. Below are the screenshots of the database schemas and fact and dimension tables. The scripts for this project can be found here: [Northwind_DataMining_StatisticalAnalysis](https://github.com/AKEMMONS2/Northwind_DataMining_StatisticalAnalysis.git).
 
 ![Schemas](https://user-images.githubusercontent.com/54143493/82932115-8b80e580-9f4d-11ea-98b8-024947435fd2.png)
 ![fact and dimension table](https://user-images.githubusercontent.com/54143493/82932212-ace1d180-9f4d-11ea-910d-2f383a0234c6.png)
