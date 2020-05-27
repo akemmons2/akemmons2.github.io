@@ -9,10 +9,12 @@
  Knowledgable in SQL, Python, SAS Studio, R, advanced Excel, MS Access certified. Analytical thinker with the ability to grasp complex challenges.
   
 ## Northwind Data Mining and Statistical Analysis
+ 
+ The scripts for this project can be found here: [Northwind_DataMining_StatisticalAnalysis](https://github.com/AKEMMONS2/Northwind_DataMining_StatisticalAnalysis.git).
+ 
    Data mining is the process of taking a raw, large set of data and extracting usable data from it (The Economic Times, n.d.). To determine if the data is usable, it is evaluated for anomalies, patterns and correlations which are then used to predict outcomes. The Northwind data set contains sales data, it will be analyzed, and the following questions will be the groundwork for the statistical analysis.  Which product category produces the highest profitability? What countries purchase the most products? 
 
-The Northwind Database was created and populated in PostgreSQL. Below are the screenshots of the database schemas and fact and dimension tables. The scripts for this project can be found here: [Northwind_DataMining_StatisticalAnalysis](https://github.com/AKEMMONS2/Northwind_DataMining_StatisticalAnalysis.git).
-
+The Northwind Database was created and populated in PostgreSQL. Below are the screenshots by author of the database schemas and fact and dimension tables from the PostgreSQL database. 
  ![Schemas](https://user-images.githubusercontent.com/54143493/82932115-8b80e580-9f4d-11ea-98b8-024947435fd2.png)
  
  ![fact and dimension table](https://user-images.githubusercontent.com/54143493/82932212-ace1d180-9f4d-11ea-910d-2f383a0234c6.png)
@@ -24,6 +26,12 @@ Statistical analysis consists of two main types: descriptive and inference stati
 ![table 1](https://user-images.githubusercontent.com/54143493/83051811-1c21f900-a014-11ea-8dd6-91e35b63d8e1.png)
 
 The above table represents the Northwind data product categories analyzing the profit and loss for each product category over three years. Meat/Poultry on average has the greatest profitability of 39.19, while seafood averages the least profitability at 10.44 over the years, followed closely by Grains/Cereals. 
+
+![image](https://user-images.githubusercontent.com/54143493/83052050-66a37580-a014-11ea-8004-edb49fc87761.png)
+
+The summary statistic above represents the Northwind data products purchased by the country analyzing the quantity sold over three years. Austria purchased 41 products, while Norway averaged the least amount of purchases in a year with 10 purchases. 
+
+
 
 References
 IDG Communications, Inc. (2020). Creating data ecosystems and the requirements for a successful data exchange. Retrieved 05 08, 2020, from CIO: https://www.cio.com/article/3530335/creating-data-ecosystems-and-the-requirements-for-a-successful-data-exchange.html
