@@ -18,6 +18,8 @@ The Northwind Database was created and populated in PostgreSQL. Below are the sc
   
   Part of the mining process is determining if the data you are using is suitable. Is the data structured? Structured data has columns and rows such as in Excel, CSV or a text file. “The less ETL (extraction, transformation and loading) an organization has to do before analysis, the faster it can start generating insights” (IDG Communications, Inc., 2020). The Northwind data set is structured, allowing us to move to the next step. 
 
+Statistical analysis consists of two main types: descriptive and inference statistics. Descriptive statistics is intended to summarize data with charts and tables, allowing one to get a better understanding of the data set (Brooks, 2014). 
+
 References
 IDG Communications, Inc. (2020). Creating data ecosystems and the requirements for a successful data exchange. Retrieved 05 08, 2020, from CIO: https://www.cio.com/article/3530335/creating-data-ecosystems-and-the-requirements-for-a-successful-data-exchange.html
 
