@@ -14,13 +14,14 @@
 The Northwind Database was created and populated in PostgreSQL. Below are the screenshots of the database schemas and fact and dimension tables. The scripts for this project can be found here: [Northwind_DataMining_StatisticalAnalysis](https://github.com/AKEMMONS2/Northwind_DataMining_StatisticalAnalysis.git).
 
  ![Schemas](https://user-images.githubusercontent.com/54143493/82932115-8b80e580-9f4d-11ea-98b8-024947435fd2.png)
+ 
  ![fact and dimension table](https://user-images.githubusercontent.com/54143493/82932212-ace1d180-9f4d-11ea-910d-2f383a0234c6.png)
  
   Part of the mining process is determining if the data you are using is suitable. Is the data structured? Structured data has columns and rows such as in Excel, CSV or a text file. “The less ETL (extraction, transformation and loading) an organization has to do before analysis, the faster it can start generating insights” (IDG Communications, Inc., 2020). The Northwind data set is structured, allowing us to move to the next step. 
 
 Statistical analysis consists of two main types: descriptive and inference statistics. Descriptive statistics is intended to summarize data with charts and tables, allowing one to get a better understanding of the data set (Brooks, 2014). 
 
-
+![table 1](https://user-images.githubusercontent.com/54143493/83051811-1c21f900-a014-11ea-8dd6-91e35b63d8e1.png)
 
 The above table represents the Northwind data product categories analyzing the profit and loss for each product category over three years. Meat/Poultry on average has the greatest profitability of 39.19, while seafood averages the least profitability at 10.44 over the years, followed closely by Grains/Cereals. 
 
