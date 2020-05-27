@@ -20,7 +20,6 @@ The Northwind Database was created and populated in PostgreSQL. Below are the sc
 ![fact and dimension table](https://user-images.githubusercontent.com/54143493/82932212-ace1d180-9f4d-11ea-910d-2f383a0234c6.png)
 
 Statistical analysis consists of two main types: descriptive and inference statistics. Descriptive statistics is intended to summarize data with charts and tables, allowing one to get a better understanding of the data set (Brooks, 2014). 
-![table 1](https://user-images.githubusercontent.com/54143493/83051354-8ab28700-a013-11ea-8ea0-73180fec563f.png)
 
 The above table represents the Northwind data product categories analyzing the profit and loss for each product category over three years. Meat/Poultry on average has the greatest profitability of 39.19, while seafood averages the least profitability at 10.44 over the years, followed closely by Grains/Cereals. 
 
