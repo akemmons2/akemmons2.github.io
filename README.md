@@ -50,7 +50,7 @@ The above graph indicates the average profit/loss for each product category, alo
 On average, Austria purchased the most products over three years, while norway purcahsed the least number of products. 
 
 ### Cluster Analysis
-Cluster analysis is used to divide multivariate datasets into natural clusters. Clusters are joined until a single cluster or root is formed. The above cluster analysis based on five variables created two clusters. Determining how many variables to use during cluster analysis may prove challenging when the max number(10) of variables allowed are used, no clusters were formed and all branches of the tree went to the top, no single root was formed. 
+Cluster analysis is used to divide multivariate datasets into natural clusters. Clusters are joined until a single cluster or root is formed. The following cluster analysis is based on five variables and it created two clusters, which then formed one root or single cluster at the top. Determining how many variables to use during cluster analysis is key to creating an accurate cluster analysis. Using too many variables or the wrong variables can cause no clusters to appear and all branches of the tree go to the top, thus no single root is formed. 
 ![](images/clusteranalysis_1.4.png)
 
 ![](images/clusteranalysis_2.4.png)
