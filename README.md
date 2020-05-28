@@ -17,7 +17,7 @@
 The Northwind Database was created and populated in PostgreSQL. Below are the screenshots by author of the database schemas and fact and dimension tables from the PostgreSQL database. 
 
 Five schemas
-![](images/github-schemas.png)
+![](images/schemas.png)
 
 Fact & Dimension Table
  ![fact and dimension table](https://user-images.githubusercontent.com/54143493/82932212-ace1d180-9f4d-11ea-910d-2f383a0234c6.png)
