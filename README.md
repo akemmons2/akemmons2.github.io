@@ -40,7 +40,7 @@ The Northwind data product categories in the above table analyzes the profit and
 
 The summary statistic above represents the Northwind data products purchased by the country, analyzing the quantity sold over three years. Austria averages 41 products purchased, while Norway averaged the least amount of purchases in a year with 10 purchases. 
 
-# Classification
+### Classification
 ![](images/classification.png)
 
 The above graph indicates the average profit/loss for each product category, along with the yearly profit/loss variables overlapping on top of the totals. According to the graph, meat and poultry products over the three years have the highest profits, while seafood and dairy products have the lowest.
@@ -49,14 +49,34 @@ The above graph indicates the average profit/loss for each product category, alo
 
 On average, Austria purchased the most products over three years, while norway purcahsed the least number of products. 
 
-# Cluster Analysis
+### Cluster Analysis
 Cluster analysis is used to divide multivariate datasets into natural clusters. Clusters are joined until a single cluster or root is formed. The above cluster analysis based on five variables created two clusters. Determining how many variables to use during cluster analysis may prove challenging when the max number(10) of variables allowed are used, no clusters were formed and all branches of the tree went to the top, no single root was formed. 
 ![](images/clusteranalysis_1.4.png)
+
 ![](images/clusteranalysis_2.4.png)
+
 ![](images/clusteranalysis_3.4.png)
+
 ![](images/clusteranalysis_4.4.png)
 
 ### Association Analysis
+While the project was requested that all statistical analysis to be done in SAS, some challenges arose which would cause a delay in completing the project. Due to the approaching deadline, rather than asking for an extension, a last minute decision was made to finish the final portion using R studio instead. The change was accepted and was complimented on my very innovative solution. 
+
+![](images/associationanalysis_1.7.png)
+
+![](images/associationanalysis_2.7.png)
+
+![](images/associationanalysis_3.7.png)
+
+![](images/associationanalysis_4.7.png)
+
+![](images/associationanalysis_5.7.png)
+
+![](images/associationanalysis_6.7.png)
+
+![](images/associationanalysis_7.7.png)
+
+
 References
 IDG Communications, Inc. (2020). Creating data ecosystems and the requirements for a successful data exchange. Retrieved 05 08, 2020, from CIO: https://www.cio.com/article/3530335/creating-data-ecosystems-and-the-requirements-for-a-successful-data-exchange.html
 
