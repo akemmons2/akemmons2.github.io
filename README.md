@@ -16,16 +16,17 @@
 
 The Northwind Database was created and populated in PostgreSQL. Below are the screenshots by author of the database schemas and fact and dimension tables from the PostgreSQL database. 
 
-Five schemas
+# Five schemas
 ![](images/schemas.png)
 
-Fact & Dimension Table
+# Fact & Dimension Table
  ![](images/fact_dimension_table.png)
  
   Part of the mining process is determining if the data you are using is suitable. Is the data structured? Structured data has columns and rows such as in Excel, CSV or a text file. “The less ETL (extraction, transformation and loading) an organization has to do before analysis, the faster it can start generating insights” (IDG Communications, Inc., 2020). The Northwind data set is structured, allowing us to move to the next step. 
 
 Statistical analysis consists of two main types: descriptive and inference statistics. Descriptive statistics is intended to summarize data with charts and tables, allowing one to get a better understanding of the data set (Brooks, 2014). 
 
+# Summary Statistics
 ![](images/summary1.png)
 
 The Northwind data product categories in the above table analyzes the profit and loss for each product category over three years. Meat/Poultry on average has the greatest profitability of 39.19, while seafood averages the least profitability at 10.44 over the years, followed closely by Grains/Cereals. 
@@ -34,9 +35,20 @@ The Northwind data product categories in the above table analyzes the profit and
 
 The summary statistic above represents the Northwind data products purchased by the country, analyzing the quantity sold over three years. Austria averages 41 products purchased, while Norway averaged the least amount of purchases in a year with 10 purchases. 
 
+# Classification
 ![](images/classification.png)
 
 The above graph indicates the average profit/loss for each product category, along with the yearly profit/loss variables overlapping on top of the totals. According to the graph, meat and poultry products over the three years have the highest profits, while seafood and dairy products have the lowest.
+
+![](images/productcategory_years.png)
+
+On average, Austria purchased the most products over three years, while norway purcahsed the least number of products. 
+# Cluster Analysis
+Cluster analysis is used to divide multivariate datasets into natural clusters. Clusters are joined until a single cluster or root is formed. The above cluster analysis based on five variables created two clusters. Determining how many variables to use during cluster analysis may prove challenging when the max number(10) of variables allowed are used, no clusters were formed and all branches of the tree went to the top, no single root was formed. 
+![](images/clusteranalysis_1.4.png)
+![](images/clusteranalysis_2.4.png)
+![](images/clusteranalysis_3.4.png)
+![](images/clusteranalysis_4.4.png)
 
 
 References
