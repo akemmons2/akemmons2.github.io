@@ -60,8 +60,7 @@ Cluster analysis is used to divide multivariate datasets into natural clusters. 
 ![](images/clusteranalysis_4.4.png)
 
 ### Association Analysis
-While the project was requested that all statistical analysis to be done in SAS, some challenges arose which would cause a delay in completing the project. Due to the approaching deadline, rather than asking for an extension, a last minute decision was made to finish the final portion using R studio instead. The change was accepted and was complimented on my very innovative solution. 
-
+While the project was requested that all statistical analysis to be done in SAS, some challenges arose which would cause a delay in completing the project. Due to the approaching deadline, rather than asking for an extension, a last minute decision was made to finish the final portion using R studio instead.
 ![](images/associationanalysis_1.7.png)
 
 ![](images/associationanalysis_2.7.png)
