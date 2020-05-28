@@ -26,14 +26,17 @@ Fact & Dimension Table
 
 Statistical analysis consists of two main types: descriptive and inference statistics. Descriptive statistics is intended to summarize data with charts and tables, allowing one to get a better understanding of the data set (Brooks, 2014). 
 
-![table 1](https://user-images.githubusercontent.com/54143493/83051811-1c21f900-a014-11ea-8dd6-91e35b63d8e1.png)
+![](images/summary1.png)
 
-The above table represents the Northwind data product categories analyzing the profit and loss for each product category over three years. Meat/Poultry on average has the greatest profitability of 39.19, while seafood averages the least profitability at 10.44 over the years, followed closely by Grains/Cereals. 
+The Northwind data product categories in the above table analyzes the profit and loss for each product category over three years. Meat/Poultry on average has the greatest profitability of 39.19, while seafood averages the least profitability at 10.44 over the years, followed closely by Grains/Cereals. 
 
-![image](https://user-images.githubusercontent.com/54143493/83052050-66a37580-a014-11ea-8004-edb49fc87761.png)
+![](images/summary2.png)
 
-The summary statistic above represents the Northwind data products purchased by the country analyzing the quantity sold over three years. Austria purchased 41 products, while Norway averaged the least amount of purchases in a year with 10 purchases. 
+The summary statistic above represents the Northwind data products purchased by the country, analyzing the quantity sold over three years. Austria averages 41 products purchased, while Norway averaged the least amount of purchases in a year with 10 purchases. 
 
+![](images/classification.png)
+
+The above graph indicates the average profit/loss for each product category, along with the yearly profit/loss variables overlapping on top of the totals. According to the graph, meat and poultry products over the three years have the highest profits, while seafood and dairy products have the lowest.
 
 
 References
