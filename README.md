@@ -20,7 +20,7 @@ Five schemas
 ![](images/schemas.png)
 
 Fact & Dimension Table
- ![](images/factanddimension_table.png)
+ ![](images/fact_dimension_table.png)
  
   Part of the mining process is determining if the data you are using is suitable. Is the data structured? Structured data has columns and rows such as in Excel, CSV or a text file. “The less ETL (extraction, transformation and loading) an organization has to do before analysis, the faster it can start generating insights” (IDG Communications, Inc., 2020). The Northwind data set is structured, allowing us to move to the next step. 
 
