@@ -9,6 +9,8 @@
 # Business Data Analyst
 
    Experienced in performing detailed requirements analysis, documenting processes, leading projects comprised of both technical and non-technical users. Knowledgable in SQL, Python, SAS Studio, R, advanced Excel, and MS Access certified. Analytical thinker with the ability to grasp complex challenges.
+
+[Go to top of page](#welcome-to-my-portfolio)
   
 # Northwind Data Mining and Statistical Analysis
  
@@ -87,8 +89,15 @@ SAS Institute Inc. (2018). localhost:10080. Retrieved from SAS Studio: http://lo
 
 The Economic Times. (n.d.). Definition of data mining. Retrieved 05 08, 2020, from The Economic Times: https://economictimes.indiatimes.com/definition/data-mining
 
+[Go to top of page](#welcome-to-my-portfolio)
+
 # Microsoft Access Database Reporting Project
-# SQL Data Warehouse and Ebay API Integration
+
+[Go to top of page](#welcome-to-my-portfolio)
+
+# SQL Data Warehouse and Ebay API Integration.
+
+[Go to top of page](#welcome-to-my-portfolio)
 
 ## Business Communication
 
@@ -139,3 +148,4 @@ Robertson, G. (2018, Apr 6). Comma quirk irks Rogers. Retrieved from The Globe a
 
 Wheaton College Writing Center. (2019). Style, diction, tone, and voice. Retrieved from Wheaton College: https://www.wheaton.edu/academics/services/writing-center/writing-resources/style-diction-tone-and-voice/
 
+[Go to top of page](#welcome-to-my-portfolio)
