@@ -33,8 +33,6 @@ The Northwind Database was created and populated in PostgreSQL. Below are the sc
 
 ![](images/added_details.png)
 
-![](images/formulas.png)
-
 Statistical analysis consists of two main types: descriptive and inference statistics. Descriptive statistics is intended to summarize data with charts and tables, allowing one to get a better understanding of the data set (Brooks, 2014). 
 
 ## Summary Statistics
