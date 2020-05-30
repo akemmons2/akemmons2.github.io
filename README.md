@@ -1,12 +1,8 @@
 ## Welcome to My Portfolio
 
-## Business Analyst
+## Business Data Analyst
 
-   Experienced in performing detailed requirements analysis, documenting processes, leading projects comprised of both technical and non-technical users.
-  
-## Master Data Analyst 
-
- Knowledgable in SQL, Python, SAS Studio, R, advanced Excel, MS Access certified. Analytical thinker with the ability to grasp complex challenges.
+   Experienced in performing detailed requirements analysis, documenting processes, leading projects comprised of both technical and non-technical users. Knowledgable in SQL, Python, SAS Studio, R, advanced Excel, and MS Access certified. Analytical thinker with the ability to grasp complex challenges.
   
 ## Northwind Data Mining and Statistical Analysis
  
@@ -26,7 +22,9 @@ The Northwind Database was created and populated in PostgreSQL. Below are the sc
    Part of the mining process is determining if the data you are using is suitable. Is the data structured? Structured data has columns and rows such as in Excel, CSV or a text file. “The less ETL (extraction, transformation and loading) an organization has to do before analysis, the faster it can start generating insights” (IDG Communications, Inc., 2020). The Northwind data set is structured, allowing us to move to the next step. 
 
 ![](images/extracted_data.png)
+
 ![](images/added_details.png)
+
 ![](images/formulas.png)
 
 Statistical analysis consists of two main types: descriptive and inference statistics. Descriptive statistics is intended to summarize data with charts and tables, allowing one to get a better understanding of the data set (Brooks, 2014). 
