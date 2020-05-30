@@ -2,17 +2,15 @@
 
 - [Title](#business-data-analyst)
 - [Project - Northwind Data Mining & Statistical Analaysis](#northwind-data-mining-and-statistical-analysis)
-- [Pending Project - Microsoft Access Database Reporting Project](#microsoft-access-database-reporting-project)
-- [Pending Project - SQL Data Warehouse & Ebay API Integration](#sql-data-warehouse-and-ebay-api-integration)
 - [Writing - Business Communication](#business-communication)
 
-# Business Data Analyst
+## Business Data Analyst
 
    Experienced in performing detailed requirements analysis, documenting processes, leading projects comprised of both technical and non-technical users. Knowledgable in SQL, Python, SAS Studio, R, advanced Excel, and MS Access certified. Analytical thinker with the ability to grasp complex challenges.
 
 [Go to top of page](#welcome-to-my-portfolio)
   
-# Northwind Data Mining and Statistical Analysis
+## Northwind Data Mining and Statistical Analysis
  
  The scripts for this project can be found here: [Northwind_DataMining_StatisticalAnalysis](https://github.com/AKEMMONS2/Northwind_DataMining_StatisticalAnalysis.git).
  
@@ -20,13 +18,13 @@
 
 The Northwind Database was created and populated in PostgreSQL. Below are the screenshots by author of the database schemas and fact and dimension tables from the PostgreSQL database. 
 
-## Five schemas
+### Five schemas
 ![](images/schemas.png)
 
-## Fact & Dimension Table
+### Fact & Dimension Table
  ![](images/fact_dimension_table.png)
  
-## Extraction and Transformation
+### Extraction and Transformation
    Part of the mining process is determining if the data you are using is suitable. Is the data structured? Structured data has columns and rows such as in Excel, CSV or a text file. “The less ETL (extraction, transformation and loading) an organization has to do before analysis, the faster it can start generating insights” (IDG Communications, Inc., 2020). The Northwind data set is structured, allowing us to move to the next step. 
 
 ![](images/extracted_data.png)
@@ -37,7 +35,7 @@ The Northwind Database was created and populated in PostgreSQL. Below are the sc
 
 Statistical analysis consists of two main types: descriptive and inference statistics. Descriptive statistics is intended to summarize data with charts and tables, allowing one to get a better understanding of the data set (Brooks, 2014). 
 
-## Summary Statistics
+### Summary Statistics
 ![](images/summary1.png)
 
 The Northwind data product categories in the above table analyzes the profit and loss for each product category over three years. Meat/Poultry on average has the greatest profitability of 39.19, while seafood averages the least profitability at 10.44 over the years, followed closely by Grains/Cereals. 
@@ -46,7 +44,7 @@ The Northwind data product categories in the above table analyzes the profit and
 
 The summary statistic above represents the Northwind data products purchased by the country, analyzing the quantity sold over three years. Austria averages 41 products purchased, while Norway averaged the least amount of purchases in a year with 10 purchases. 
 
-## Classification
+### Classification
 ![](images/classification.png)
 
 The above graph indicates the average profit/loss for each product category, along with the yearly profit/loss variables overlapping on top of the totals. According to the graph, meat and poultry products over the three years have the highest profits, while seafood and dairy products have the lowest.
@@ -88,14 +86,6 @@ IDG Communications, Inc. (2020). Creating data ecosystems and the requirements f
 SAS Institute Inc. (2018). localhost:10080. Retrieved from SAS Studio: http://localhost:10080/SASStudio/38/main?locale=en_US&zone=GMT-05%253A00&http%3A%2F%2Flocalhost%3A10080%2FSASStudio%2F38%2F=
 
 The Economic Times. (n.d.). Definition of data mining. Retrieved 05 08, 2020, from The Economic Times: https://economictimes.indiatimes.com/definition/data-mining
-
-[Go to top of page](#welcome-to-my-portfolio)
-
-# Microsoft Access Database Reporting Project
-
-[Go to top of page](#welcome-to-my-portfolio)
-
-# SQL Data Warehouse and Ebay API Integration.
 
 [Go to top of page](#welcome-to-my-portfolio)
 
