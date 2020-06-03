@@ -12,22 +12,20 @@
  
  The information for this project can be found here: 
 
-[Go to top of page](#welcome-to-my-portfolio)
 
 # Microsoft Access Database Reporting Project
 
 Future project - showing what can be done if you have limited software to work with. 
 
-[Go to top of page](#welcome-to-my-portfolio)
+[Go to top of page](#welcome-to-my-github-portfolio)
 
 # SQL Data Warehouse and Ebay API Integration.
 
 Future project - this project will consist of building a SQL data warehouse in SQL Server Management Studio and using an API to push listings to EBAY and retrieve order details. 
 
-[Go to top of page](#welcome-to-my-portfolio)
 
 ## Business Communication
 
 The information for this project can be found here: 
 
-[Go to top of page](#welcome-to-my-portfolio)
+[Go to top of page](#welcome-to-my-github-portfolio)
