@@ -10,7 +10,7 @@
  
  The scripts for this project can be found here: [Northwind_DataMining_StatisticalAnalysis](https://github.com/AKEMMONS2/Northwind_DataMining_StatisticalAnalysis.git).
  
- The information for this project can be found here: 
+ The information for this project can be found here:[My Full Portfolio](https://aemmons.info/).
 
 
 # Microsoft Access Database Reporting Project
