@@ -1,4 +1,4 @@
-# Welcome to My Portfolio
+# Welcome to My GitHub Portfolio
 
 - [Project - Northwind Data Mining & Statistical Analaysis](#northwind-data-mining-and-statistical-analysis)
 - [Pending Project - Microsoft Access Database Reporting Project](#microsoft-access-database-reporting-project)
