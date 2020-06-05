@@ -25,7 +25,7 @@ Future project - showing what can be done if you have limited software to work w
 
 ## Python Data Visualization
 
-Future project - importing data into python and create data visualizations. 
+Future project - importing data into python and create data visualizations using pandas.
 
 ## SQL Data Warehouse and Ebay API Integration.
 
