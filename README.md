@@ -20,6 +20,8 @@ The information for this project can be found here: [My Writing](https://aemmons
 
 ## Python PDF Project
 
+The details for this project can be found here: [Python PDF Project](https://github.com/AKEMMONS2/PythonProject_PDFExtraction.git).
+
 I recently started working on my Python project, originally I was going for a data visualization project, but after some thought, I decided to change the project to better demonstrate my wide range of abilities. 
 
 The project consists of reading and exracting data from both text and image PDFs, assigning unique IDs to them, then sorting the data and exporting it into csv. The final piece of the project will be to create an app that can be accessed on my portfolio page demonstrating how others can access the app, upload a PDF and retrieve the data. Since there are many types and uses for PDFs, this project will be begin by just focusing on extracting data from invoices and bills. 
