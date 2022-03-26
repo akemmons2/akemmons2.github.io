@@ -1,16 +1,9 @@
 # Welcome to My GitHub Portfolio
 
-- [Writing - Business Communication](#business-communication)
 - [Current Project - Python PDF Project](#python-pdf-project)
 - [Future Project - Microsoft Access Database Reporting Project](#microsoft-access-database-reporting-project)
 - [Future Project - SQL Data Warehouse & Ebay API Integration](#sql-data-warehouse-and-ebay-api-integration)
  
-## Business Communication
-
-The information for this project can be found here: [My Writing](https://aemmons.info/writing-business-communication).
-
-[Go to top of page](#welcome-to-my-github-portfolio)
-
 ## Python PDF Project
 
 The details for this project can be found here: [Python PDF Project](https://github.com/AKEMMONS2/PythonProject_PDFExtraction.git).
