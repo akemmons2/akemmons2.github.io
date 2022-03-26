@@ -1,7 +1,7 @@
 # Welcome to My GitHub Portfolio
 
 - [Current Project - Python PDF Project](#python-pdf-project)
-- [Future Project - Power BI Project](#Power BI Project)
+- [Future Project - Power BI Project](#Power-BI-Project)
 - [Future Project - SQL Data Warehouse & Ebay API Integration](#sql-data-warehouse-and-ebay-api-integration)
  
 ## Python PDF Project
